@@ -22,9 +22,16 @@ are some tips on learning R as well that beginners might find useful.
 You'll need to install whatever software I use: I'll include a comprehensive list later on but it's
 not too hard to figure out from just examining the files. You'll find that
 [`stow`](https://www.gnu.org/software/stow/) is perhaps the most convenient tool to use these
-files. It might be a good idea to move the `packages` folder elsewhere such that it doesn't
+files. 
+
+It might be a good idea to move the `packages` folder elsewhere such that it doesn't
 interfere with the functioning of your window manager (symlinks created with `stow` will add
 symlinks for these files in your home directory).
+
+Additionally, I use [`grml-zsh-config`](https://grml.org/zsh/) with a `.zshrc.local` in my home
+directory. My older zshrc is available on an [older
+repository](https://github.com/ictinaetus/dotfiles) if anyone's interested. I currently use a custom
+theme for the prompt which you can find in the [`.zshrc.local`](.zshrc.local) file.
 
 ## Screenshots
 
