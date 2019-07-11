@@ -2,8 +2,9 @@
 
 ## Background
 These were made as part of an experiment to use a light theme called
-[seoul256](https://github.com/junegunn/seoul256.vim). I currently use a different set of
-applications for things:
+[seoul256](https://github.com/junegunn/seoul256.vim). Note that this work in progress and I should
+be updating this as and when I feel the need. I currently use a different set of applications for
+things:
 
 * **WM**: bspwm currently but I've included herbstluftwm configs as well
 * **Menu**: dmenu
