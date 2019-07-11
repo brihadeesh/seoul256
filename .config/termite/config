@@ -1,0 +1,67 @@
+[options]
+#font = Consolas 12px
+#font = mononoki Nerd Font 11px
+#font = Monoisome 9px
+#font = TerminessTTF Nerd Font 12px
+#font = lemon 12px
+#font = Fira Code 10px
+#font = Iosevka 11px
+#font = Terminus 13px
+#font = xos4 Terminus 9
+#font = Envy Code R 9
+#font = Misc Tamsyn 10
+#font = ProFontIIx Nerd Font Mono 7
+#font = Iosevka Term Medium 8
+font = monofur 8.5
+allow_bold = true
+
+dynamic-title = false
+
+audible_bell = true
+urgent_on_bell = true
+
+scroll_on_keystroke = true
+
+cursor_blink = true
+cursor_shape = ibeam
+mouse_autohide = true
+
+[colors]
+
+# special
+foreground      = #4e4e4e
+foreground_bold = #4e4e4e
+cursor          = #4e4e4e
+background      = #dadada
+
+# black
+color0  = #4e4e4e
+color8  = #3a3a3a
+
+# red
+color1  = #af5f5f
+color9  = #870100
+
+# green
+color2  = #5f885f
+color10 = #005f00
+
+# yellow
+color3  = #af8760
+color11 = #d8865f
+
+# blue
+color4  = #5f87ae
+color12 = #0087af
+
+# magenta
+color5  = #875f87
+color13 = #87025f
+
+# cyan
+color6  = #5f8787
+color14 = #008787
+
+# white
+color7  = #938f8f
+color15 = #4e4e4e
