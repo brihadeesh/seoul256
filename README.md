@@ -21,9 +21,9 @@ files.
 
 ## Screenshots
 
-![st, polybar](screenshots/seol256_1.png)
+![st, polybar](screenshots/seoul256_1.png)
 
-![Rstudio, mupdf](screenshots/seol256_2.png)
+![Rstudio, mupdf](screenshots/seoul256_2.png)
 
-![empty](screenshots/seol256_3.png)
+![empty](screenshots/seoul256_3.png)
 
