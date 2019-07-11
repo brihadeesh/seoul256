@@ -7,7 +7,7 @@ applications for things:
 
 * **WM**: bspwm currently but I've included herbstluftwm configs as well
 * **Menu**: dmenu
-* **Terminal**: (st)[packages/st/config.h] although I also use termite 
+* **Terminal**: [st]{packages/st) although I also use termite 
 * **Editor**: Emacs and occasionally nano; I was a neovimmer for a while but have not used it in a
   while. Hopefully I'll be switching to using the [Nvim-R](https://github.com/jalvesaq/Nvim-R)
   plugin for R
