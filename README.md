@@ -25,8 +25,8 @@ not too hard to figure out from just examining the files. You'll find that
 files. 
 
 It might be a good idea to move the `packages` folder elsewhere such that it doesn't
-interfere with the functioning of your window manager (symlinks created with `stow` will add
-symlinks for these files in your home directory).
+interfere with the functioning of your window manager (symlinks created with `stow` will include
+symlinks for these files in your home directory if this folder is not moved).
 
 Additionally, I use [`grml-zsh-config`](https://grml.org/zsh/) with a `.zshrc.local` in my home
 directory. My older zshrc is available on an [older
