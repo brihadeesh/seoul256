@@ -21,7 +21,9 @@ are some tips on learning R as well that beginners might find useful.
 You'll need to install whatever software I use: I'll include a comprehensive list later on but it's
 not too hard to figure out from just examining the files. You'll find that
 [`stow`](https://www.gnu.org/software/stow/) is perhaps the most convenient tool to use these
-files. 
+files. It might be a good idea to move the `packages` folder elsewhere such that it doesn't
+interfere with the functioning of your window manager (symlinks created with `stow` will add
+symlinks for these files in your home directory).
 
 ## Screenshots
 
